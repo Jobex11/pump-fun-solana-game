@@ -6,7 +6,7 @@
 
 ## Production URL
 
-You can access the game at the following URL: [www.pump.fun.com](http://www.pump.fun.com)
+You can access the game at the following URL: [www.pump.fun.com](https://pumpfungame.vercel.app/)
 
 ## Features
 
