@@ -1,4 +1,3 @@
-```markdown
 # JobPumpFun Game (JPP)
 
 ## Overview
@@ -60,4 +59,3 @@ For more information or inquiries, please contact us at:
 - **Website**: [www.pump.fun.com](http://www.pump.fun.com)
 
 Thank you for playing JobPumpFun Game (JPP)! Enjoy your adventure and happy gaming!
-```
