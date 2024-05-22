@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+```markdown
+# JobPumpFun Game (JPP)
+
+## Overview
+
+**JobPumpFun Game (JPP)** is an engaging and interactive game where players can play and earn tokens. Players can use these tokens to buy and sell various items within the game, enhancing their gameplay experience and providing an exciting economic dynamic.
+
+## Production URL
+
+You can access the game at the following URL: [www.pump.fun.com](http://www.pump.fun.com)
+
+## Features
+
+- **Play and Earn Tokens**: Engage in fun activities and complete tasks to earn tokens.
+- **Marketplace**: Buy and sell items using your earned tokens to improve your game assets.
+- **Dynamic Economy**: Experience a vibrant in-game economy where token values and item prices fluctuate based on player activities.
 
 ## Getting Started
 
-First, run the development server:
+To start playing JobPumpFun Game (JPP), follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+1. **Visit the Game URL**: Open your web browser and go to [www.pump.fun.com](http://www.pump.fun.com).
+2. **Create an Account**: Sign up with your email or social media accounts.
+3. **Start Playing**: Begin completing tasks and activities to earn tokens.
+4. **Access the Marketplace**: Use your tokens to buy and sell items in the marketplace.
+
+## How to Play
+
+1. **Tasks and Activities**: Participate in various tasks and mini-games to earn tokens.
+2. **Earn Tokens**: Accumulate tokens based on your performance in tasks and activities.
+3. **Use Tokens**: Spend your tokens in the marketplace to buy items that can enhance your gameplay.
+4. **Sell Items**: Sell items you no longer need or want to other players for tokens.
+
+## Token System
+
+- **Earning Tokens**: Tokens can be earned by completing tasks, achieving high scores in mini-games, and participating in special events.
+- **Spending Tokens**: Tokens can be used to purchase items, upgrades, and special abilities in the game's marketplace.
+- **Trading Tokens**: Players can buy and sell items in the marketplace, creating a dynamic trading environment.
+
+## Community and Support
+
+Join our community to connect with other players, share tips, and get support:
+
+- **Forums**: Discuss strategies and share your experiences with other players.
+- **Support**: If you encounter any issues or have questions, visit our support page or contact our help desk.
+
+## Feedback
+
+We value your feedback! If you have any suggestions or comments, please reach out to us through our feedback form on the website or email us at support@pump.fun.com.
+
+## License
+
+JobPumpFun Game (JPP) is © 2024 by PumpFun Inc. All rights reserved. Unauthorized duplication or distribution is prohibited.
+
+## Contact
+
+For more information or inquiries, please contact us at:
+
+- **Email**: info@pump.fun.com
+- **Website**: [www.pump.fun.com](http://www.pump.fun.com)
+
+Thank you for playing JobPumpFun Game (JPP)! Enjoy your adventure and happy gaming!
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
