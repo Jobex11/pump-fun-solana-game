@@ -55,7 +55,8 @@ JobPumpFun Game (JPP) is © 2024 by PumpFun Inc. All rights reserved. Unauthoriz
 
 For more information or inquiries, please contact us at:
 
-- **Email**: info@pump.fun.com
-- **Website**: [www.pump.fun.com](http://www.pump.fun.com)
+- **Email**: joblawal33@gmail.com
+- **Website**: [www.pump.fun.com](https://pumpfungame.vercel.app/)
+- **Contact**:+234 09078769622
 
 Thank you for playing JobPumpFun Game (JPP)! Enjoy your adventure and happy gaming!
